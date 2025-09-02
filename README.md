@@ -181,13 +181,15 @@ And here are some of the software, plugins or libraries I have contributed to:
 
 ## Latest Contributions
 <!--contrib-start-->
-- **[napari-phasors/napari-phasors](https://github.com/napari-phasors/napari-phasors)**: [#108 Highlight optional](https://github.com/napari-phasors/napari-phasors/pull/108) (merged 2025-07-29)
+- **[bruno-pannunzio/napari-phasors](https://github.com/bruno-pannunzio/napari-phasors)**: [#2 Sync frequency fields](https://github.com/bruno-pannunzio/napari-phasors/pull/2) (merged 2025-08-27)
+- **[zoccoler/napari-flim-phasor-plotter](https://github.com/zoccoler/napari-flim-phasor-plotter)**: [#76 Calibration](https://github.com/zoccoler/napari-flim-phasor-plotter/pull/76) (merged 2025-08-26)
+- **[napari-phasors/napari-phasors](https://github.com/napari-phasors/napari-phasors)**: [#107 Migrate packaging to pyproject.toml and setuptools_scm](https://github.com/napari-phasors/napari-phasors/pull/107) (merged 2025-08-08)
+- **[zoccoler/Cell_electrochemical_simulator](https://github.com/zoccoler/Cell_electrochemical_simulator)**: [#14 Update static simulator](https://github.com/zoccoler/Cell_electrochemical_simulator/pull/14) (merged 2025-08-07)
 - **[BiAPoL/biaplotter](https://github.com/BiAPoL/biaplotter)**: [#77 Relax numpy upper version constraint in dependencies](https://github.com/BiAPoL/biaplotter/pull/77) (merged 2025-07-29)
 - **[BiAPoL/napari-clusters-plotter](https://github.com/BiAPoL/napari-clusters-plotter)**: [#454 Versioned docs](https://github.com/BiAPoL/napari-clusters-plotter/pull/454) (merged 2025-07-16)
 - **[claudidagostino/Brightfield-3D-models-image-analysis](https://github.com/claudidagostino/Brightfield-3D-models-image-analysis)**: [#3 Update patch with sample data](https://github.com/claudidagostino/Brightfield-3D-models-image-analysis/pull/3) (merged 2025-07-10)
 - **[BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2025](https://github.com/BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2025)**: [#5 Add additional info for users getting errors with Macs or Linux](https://github.com/BiAPoL/BioImage-Analysis-and-Data-Processing-Workshop-2025/pull/5) (merged 2025-07-03)
 - **[zoccoler/Lifetime-Separation](https://github.com/zoccoler/Lifetime-Separation)**: [#6 Rev1 b](https://github.com/zoccoler/Lifetime-Separation/pull/6) (merged 2025-06-26)
-- **[zoccoler/napari-flim-phasor-plotter](https://github.com/zoccoler/napari-flim-phasor-plotter)**: [#74 Add note about tau lines](https://github.com/zoccoler/napari-flim-phasor-plotter/pull/74) (merged 2025-06-23)
 - **[zoccoler/example-jupyter-book](https://github.com/zoccoler/example-jupyter-book)**: [#4 Release test branch](https://github.com/zoccoler/example-jupyter-book/pull/4) (merged 2025-06-19)
 - **[BiAPoL/AMHCT_Bio_Image_Analysis_2025](https://github.com/BiAPoL/AMHCT_Bio_Image_Analysis_2025)**: [#8 Add slides and links to them](https://github.com/BiAPoL/AMHCT_Bio_Image_Analysis_2025/pull/8) (merged 2025-06-03)
 - **[BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025](https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025)**: [#1 Initial patch](https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025/pull/1) (merged 2025-04-24)
@@ -230,7 +232,6 @@ And here are some of the software, plugins or libraries I have contributed to:
 - **[zoccoler/flood-napari](https://github.com/zoccoler/flood-napari)**: [#6 update qt version style](https://github.com/zoccoler/flood-napari/pull/6) (merged 2021-12-13)
 - **[zoccoler/blog](https://github.com/zoccoler/blog)**: [#3 updating my fork](https://github.com/zoccoler/blog/pull/3) (merged 2021-11-29)
 - **[jo-mueller/napari-stl-exporter](https://github.com/jo-mueller/napari-stl-exporter)**: [#2 numpy array conversion](https://github.com/jo-mueller/napari-stl-exporter/pull/2) (merged 2021-10-06)
-- **[zoccoler/Cell_electrochemical_simulator](https://github.com/zoccoler/Cell_electrochemical_simulator)**: [#9 advanced mode fully functional](https://github.com/zoccoler/Cell_electrochemical_simulator/pull/9) (merged 2021-06-30)
 - **[zoccoler/GETS_App_binder](https://github.com/zoccoler/GETS_App_binder)**: [#2 Create LICENSE](https://github.com/zoccoler/GETS_App_binder/pull/2) (merged 2021-06-03)
 - **[zoccoler/GETS_App](https://github.com/zoccoler/GETS_App)**: [#3 Create LICENSE](https://github.com/zoccoler/GETS_App/pull/3) (merged 2021-06-03)
 - **[zoccoler/metroid](https://github.com/zoccoler/metroid)**: [#20 Update requirements.txt](https://github.com/zoccoler/metroid/pull/20) (merged 2020-09-23)
@@ -238,7 +239,7 @@ And here are some of the software, plugins or libraries I have contributed to:
 
 ---
 
-_Last updated: August 2025_
+_Last updated: September 2025_
 
 
 
