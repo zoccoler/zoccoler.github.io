@@ -181,9 +181,11 @@ And here are some of the software, plugins or libraries I have contributed to:
 
 ## Latest Contributions
 <!--contrib-start-->
+- **[napari-phasors/napari-phasors](https://github.com/napari-phasors/napari-phasors)**: [#132 Fix command syntax for creating conda environment](https://github.com/napari-phasors/napari-phasors/pull/132) (merged 2025-09-30)
+- **[BiAPoL/ezomero_and_napari_omero_basics](https://github.com/BiAPoL/ezomero_and_napari_omero_basics)**: [#1 Workflow updates](https://github.com/BiAPoL/ezomero_and_napari_omero_basics/pull/1) (merged 2025-09-28)
+- **[zoccoler/napari-flim-phasor-plotter](https://github.com/zoccoler/napari-flim-phasor-plotter)**: [#77 Add calibration lifetime label](https://github.com/zoccoler/napari-flim-phasor-plotter/pull/77) (merged 2025-09-05)
+- **[zoccoler/zoccoler.github.io](https://github.com/zoccoler/zoccoler.github.io)**: [#1 Update Latest Contributions section](https://github.com/zoccoler/zoccoler.github.io/pull/1) (merged 2025-09-02)
 - **[bruno-pannunzio/napari-phasors](https://github.com/bruno-pannunzio/napari-phasors)**: [#2 Sync frequency fields](https://github.com/bruno-pannunzio/napari-phasors/pull/2) (merged 2025-08-27)
-- **[zoccoler/napari-flim-phasor-plotter](https://github.com/zoccoler/napari-flim-phasor-plotter)**: [#76 Calibration](https://github.com/zoccoler/napari-flim-phasor-plotter/pull/76) (merged 2025-08-26)
-- **[napari-phasors/napari-phasors](https://github.com/napari-phasors/napari-phasors)**: [#107 Migrate packaging to pyproject.toml and setuptools_scm](https://github.com/napari-phasors/napari-phasors/pull/107) (merged 2025-08-08)
 - **[zoccoler/Cell_electrochemical_simulator](https://github.com/zoccoler/Cell_electrochemical_simulator)**: [#14 Update static simulator](https://github.com/zoccoler/Cell_electrochemical_simulator/pull/14) (merged 2025-08-07)
 - **[BiAPoL/biaplotter](https://github.com/BiAPoL/biaplotter)**: [#77 Relax numpy upper version constraint in dependencies](https://github.com/BiAPoL/biaplotter/pull/77) (merged 2025-07-29)
 - **[BiAPoL/napari-clusters-plotter](https://github.com/BiAPoL/napari-clusters-plotter)**: [#454 Versioned docs](https://github.com/BiAPoL/napari-clusters-plotter/pull/454) (merged 2025-07-16)
@@ -239,7 +241,7 @@ And here are some of the software, plugins or libraries I have contributed to:
 
 ---
 
-_Last updated: September 2025_
+_Last updated: October 2025_
 
 
 
