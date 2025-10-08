@@ -73,15 +73,17 @@ I am a Electrical Engineer and Software Developer with 10+ years experience with
 
 ## Skills
 
-- Programming Languages / Platforms: Python, C, MATLAB
-- DevOps: Docker, git
+- Programming Languages / Platforms: Python, C, MATLAB, CUDA, R
+- Image/Data Analysis: napari, Fiji, scikit-image, scikit-learn, scipy, PyTorch, TensorFlow, numpy, dask, xarray, pandas, matplotlib, PyQtGraph, seaborn, Stardist, Cellpose, ilastik, TrackMate, micro-sam
+- DevOps: Docker, git, GitHub, GitLab
 - Microcontrollers: PIC, Arduino
+- Desktop Frontend: PyQt, wxPython
 - Teaching: Python Programming, Image Processing, Data Visualization, Statistical Analysis, Machine Learning
 - Image Processing: Segmentation, Registration, Denoising, Feature Extraction, Classification
 - Machine Learning: Dimensionality Reduction, Clustering, Supervised Classification
-- Data Management: OMERO, Research Data Management, Data Visualization
+- Database Systems: OMERO, PostgreSQL, MongoDB
 - Data Analysis: Phasor Analysis, Hyperspectral Data Analysis, Statistical Analysis, Time Series Analysis
-- Soft Skills: Accelerated Learning, Problem Solving, Critical Thinking, Ethical Decision Making, Teamwork, Scientific Communication
+- Soft Skills: Accelerated Learning, Mentoring, Critical Thinking, Teamwork, Relationship‑building, Analytical Reasoning, Reliability, Adaptability, Motivation, Integrity
 
 ---
 
@@ -140,6 +142,8 @@ And here are some of the software, plugins or libraries I have contributed to:
 
 ## Open-Source Training Materials
 
+- [OMERO Workshop - ezomero and napari-omero Introduction](https://github.com/BiAPoL/ezomero_and_napari_omero_basics?tab=readme-ov-file#omero-workshop---ezomero-and-napari-omero-introduction)
+  *Workshop to teach ezomero and napari-omero basics taught at B CUBE, Dresden.*
 - [BioImage Analysis and Data Processing Workshop 2025](https://biapol.github.io/BioImage-Analysis-and-Data-Processing-Workshop-2025/intro.html)  
   *Workshop content for Bio-Image Analysis and Data Processing taught in VMCF Microscopy Facility, Vinicna 7, Prague, Czechia.*
 - [AMHCT Lecture - Navigating the Reproducibility Storm with Bio-Image Analysis 2025](https://biapol.github.io/AMHCT_Bio_Image_Analysis_2025/intro.html)  
@@ -184,7 +188,6 @@ And here are some of the software, plugins or libraries I have contributed to:
 - **[napari-phasors/napari-phasors](https://github.com/napari-phasors/napari-phasors)**: [#132 Fix command syntax for creating conda environment](https://github.com/napari-phasors/napari-phasors/pull/132) (merged 2025-09-30)
 - **[BiAPoL/ezomero_and_napari_omero_basics](https://github.com/BiAPoL/ezomero_and_napari_omero_basics)**: [#1 Workflow updates](https://github.com/BiAPoL/ezomero_and_napari_omero_basics/pull/1) (merged 2025-09-28)
 - **[zoccoler/napari-flim-phasor-plotter](https://github.com/zoccoler/napari-flim-phasor-plotter)**: [#77 Add calibration lifetime label](https://github.com/zoccoler/napari-flim-phasor-plotter/pull/77) (merged 2025-09-05)
-- **[zoccoler/zoccoler.github.io](https://github.com/zoccoler/zoccoler.github.io)**: [#1 Update Latest Contributions section](https://github.com/zoccoler/zoccoler.github.io/pull/1) (merged 2025-09-02)
 - **[bruno-pannunzio/napari-phasors](https://github.com/bruno-pannunzio/napari-phasors)**: [#2 Sync frequency fields](https://github.com/bruno-pannunzio/napari-phasors/pull/2) (merged 2025-08-27)
 - **[zoccoler/Cell_electrochemical_simulator](https://github.com/zoccoler/Cell_electrochemical_simulator)**: [#14 Update static simulator](https://github.com/zoccoler/Cell_electrochemical_simulator/pull/14) (merged 2025-08-07)
 - **[BiAPoL/biaplotter](https://github.com/BiAPoL/biaplotter)**: [#77 Relax numpy upper version constraint in dependencies](https://github.com/BiAPoL/biaplotter/pull/77) (merged 2025-07-29)
