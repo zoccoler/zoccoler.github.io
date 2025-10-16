@@ -89,11 +89,11 @@ I am a Electrical Engineer and Software Developer with 10+ years experience with
 
 ## Languages
 
-- English (Fluent - C2)
-- Portuguese (Native - C2)
-- French (Advanced - C1)
-- German (Intermediate - B1)
-- Spanish (Basic - A1)
+- English (Fluent)
+- Portuguese (Native)
+- French (Advanced)
+- German (Intermediate)
+- Spanish (Basic)
 
 ---
 
