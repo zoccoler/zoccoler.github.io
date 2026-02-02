@@ -185,7 +185,13 @@ And here are some of the software, plugins or libraries I have contributed to:
 
 ## Latest Contributions
 <!--contrib-start-->
-- **[napari-phasors/napari-phasors](https://github.com/napari-phasors/napari-phasors)**: [#132 Fix command syntax for creating conda environment](https://github.com/napari-phasors/napari-phasors/pull/132) (merged 2025-09-30)
+- **[napari/napari](https://github.com/napari/napari)**: [#8189 Multilayer features table](https://github.com/napari/napari/pull/8189) (merged 2026-01-29)
+- **[BiAPoL/napari-crop](https://github.com/BiAPoL/napari-crop)**: [#60 Update README with shape size cropping note](https://github.com/BiAPoL/napari-crop/pull/60) (merged 2026-01-20)
+- **[napari-phasors/napari-phasors](https://github.com/napari-phasors/napari-phasors)**: [#158 Remove lifetime tab update from filter widget](https://github.com/napari-phasors/napari-phasors/pull/158) (merged 2025-12-12)
+- **[ome/napari-omero](https://github.com/ome/napari-omero)**: [#122 Pass SERVICE_OPTS when saving ROIs](https://github.com/ome/napari-omero/pull/122) (merged 2025-11-28)
+- **[zoccoler/napari-signal-classifier](https://github.com/zoccoler/napari-signal-classifier)**: [#12 Update documentation](https://github.com/zoccoler/napari-signal-classifier/pull/12) (merged 2025-11-27)
+- **[zoccoler/napari-signal-selector](https://github.com/zoccoler/napari-signal-selector)**: [#24 Refactor and format code for consistency and readability](https://github.com/zoccoler/napari-signal-selector/pull/24) (merged 2025-11-26)
+- **[zoccoler/zoccoler.github.io](https://github.com/zoccoler/zoccoler.github.io)**: [#2 Update Latest Contributions section](https://github.com/zoccoler/zoccoler.github.io/pull/2) (merged 2025-10-08)
 - **[BiAPoL/ezomero_and_napari_omero_basics](https://github.com/BiAPoL/ezomero_and_napari_omero_basics)**: [#1 Workflow updates](https://github.com/BiAPoL/ezomero_and_napari_omero_basics/pull/1) (merged 2025-09-28)
 - **[zoccoler/napari-flim-phasor-plotter](https://github.com/zoccoler/napari-flim-phasor-plotter)**: [#77 Add calibration lifetime label](https://github.com/zoccoler/napari-flim-phasor-plotter/pull/77) (merged 2025-09-05)
 - **[bruno-pannunzio/napari-phasors](https://github.com/bruno-pannunzio/napari-phasors)**: [#2 Sync frequency fields](https://github.com/bruno-pannunzio/napari-phasors/pull/2) (merged 2025-08-27)
@@ -198,10 +204,7 @@ And here are some of the software, plugins or libraries I have contributed to:
 - **[zoccoler/example-jupyter-book](https://github.com/zoccoler/example-jupyter-book)**: [#4 Release test branch](https://github.com/zoccoler/example-jupyter-book/pull/4) (merged 2025-06-19)
 - **[BiAPoL/AMHCT_Bio_Image_Analysis_2025](https://github.com/BiAPoL/AMHCT_Bio_Image_Analysis_2025)**: [#8 Add slides and links to them](https://github.com/BiAPoL/AMHCT_Bio_Image_Analysis_2025/pull/8) (merged 2025-06-03)
 - **[BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025](https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025)**: [#1 Initial patch](https://github.com/BiAPoL/QM_Course_Bio_Image_Analysis_with_napari_2025/pull/1) (merged 2025-04-24)
-- **[tlambert03/napari-omero](https://github.com/tlambert03/napari-omero)**: [#92 Forces napari to always open images as Image layers](https://github.com/tlambert03/napari-omero/pull/92) (merged 2025-03-20)
 - **[BiAPoL/TrendsInMicroscopy_2025](https://github.com/BiAPoL/TrendsInMicroscopy_2025)**: [#6 Patch 2](https://github.com/BiAPoL/TrendsInMicroscopy_2025/pull/6) (merged 2025-03-17)
-- **[zoccoler/napari-signal-selector](https://github.com/zoccoler/napari-signal-selector)**: [#20 Load sample data from url](https://github.com/zoccoler/napari-signal-selector/pull/20) (merged 2024-10-27)
-- **[zoccoler/napari-signal-classifier](https://github.com/zoccoler/napari-signal-classifier)**: [#7 Sub signal classification clean](https://github.com/zoccoler/napari-signal-classifier/pull/7) (merged 2024-10-16)
 - **[zoccoler/nap-plot-tools](https://github.com/zoccoler/nap-plot-tools)**: [#9 Add update icon path method](https://github.com/zoccoler/nap-plot-tools/pull/9) (merged 2024-10-10)
 - **[haesleinhuepf/napari-skimage-regionprops](https://github.com/haesleinhuepf/napari-skimage-regionprops)**: [#89 Clip min eigenvalues to 0 to block negative values in sqrt](https://github.com/haesleinhuepf/napari-skimage-regionprops/pull/89) (merged 2024-10-05)
 - **[BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2024](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2024)**: [#5 Fix links and env name](https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2024/pull/5) (merged 2024-09-18)
@@ -216,7 +219,6 @@ And here are some of the software, plugins or libraries I have contributed to:
 - **[LIBREhub/napari-LatAm-workshop-2023](https://github.com/LIBREhub/napari-LatAm-workshop-2023)**: [#23 Reupload slice images notebook and update day2 file_path notebooks and slides](https://github.com/LIBREhub/napari-LatAm-workshop-2023/pull/23) (merged 2023-08-09)
 - **[zoccoler/napari-introduction-4-Image-Analysis-and-Data-Processing-in-Super-Resolution-Microscopy-2023](https://github.com/zoccoler/napari-introduction-4-Image-Analysis-and-Data-Processing-in-Super-Resolution-Microscopy-2023)**: [#1 The beginning](https://github.com/zoccoler/napari-introduction-4-Image-Analysis-and-Data-Processing-in-Super-Resolution-Microscopy-2023/pull/1) (merged 2023-08-03)
 - **[BiAPoL/scripts](https://github.com/BiAPoL/scripts)**: [#2 Xarray notebook](https://github.com/BiAPoL/scripts/pull/2) (merged 2023-08-02)
-- **[BiAPoL/napari-crop](https://github.com/BiAPoL/napari-crop)**: [#46 bump version](https://github.com/BiAPoL/napari-crop/pull/46) (merged 2023-06-28)
 - **[zoccoler/GPU_Accelerated_Image_Processing_on_Cloud_NEUBIAS_Defragmentation_TS2_2023](https://github.com/zoccoler/GPU_Accelerated_Image_Processing_on_Cloud_NEUBIAS_Defragmentation_TS2_2023)**: [#3 Change data from assistance nb](https://github.com/zoccoler/GPU_Accelerated_Image_Processing_on_Cloud_NEUBIAS_Defragmentation_TS2_2023/pull/3) (merged 2023-05-08)
 - **[NEUBIAS/Defragmentation_TS2_EOSC-Life_2023](https://github.com/NEUBIAS/Defragmentation_TS2_EOSC-Life_2023)**: [#1 add day2 python installation material](https://github.com/NEUBIAS/Defragmentation_TS2_EOSC-Life_2023/pull/1) (merged 2023-05-04)
 - **[haesleinhuepf/napari-segment-blobs-and-things-with-membranes](https://github.com/haesleinhuepf/napari-segment-blobs-and-things-with-membranes)**: [#21 Add gabor filter](https://github.com/haesleinhuepf/napari-segment-blobs-and-things-with-membranes/pull/21) (merged 2023-03-02)
@@ -230,7 +232,6 @@ And here are some of the software, plugins or libraries I have contributed to:
 - **[haesleinhuepf/I2K2022-napari-workshop](https://github.com/haesleinhuepf/I2K2022-napari-workshop)**: [#8 minor fixes to images and notebook paths](https://github.com/haesleinhuepf/I2K2022-napari-workshop/pull/8) (merged 2022-05-10)
 - **[matplotlib/napari-matplotlib](https://github.com/matplotlib/napari-matplotlib)**: [#44 Custom toolbar style for napari](https://github.com/matplotlib/napari-matplotlib/pull/44) (merged 2022-05-09)
 - **[BiAPoL/Bio-image_Analysis_with_Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python)**: [#8 Lecture4](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/pull/8) (merged 2022-04-25)
-- **[napari/napari](https://github.com/napari/napari)**: [#4312 Fix black line ellipse](https://github.com/napari/napari/pull/4312) (merged 2022-03-31)
 - **[zoccoler/napari-metroid](https://github.com/zoccoler/napari-metroid)**: [#12 Fix UI not found](https://github.com/zoccoler/napari-metroid/pull/12) (merged 2022-03-29)
 - **[BiAPoL/Learning-groups-2022](https://github.com/BiAPoL/Learning-groups-2022)**: [#4 Create Batch_processing_solved_notebook.ipynb](https://github.com/BiAPoL/Learning-groups-2022/pull/4) (merged 2022-02-22)
 - **[haesleinhuepf/BioImageAnalysisNotebooks](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks)**: [#3 Annotate over image](https://github.com/haesleinhuepf/BioImageAnalysisNotebooks/pull/3) (merged 2022-02-09)
@@ -244,7 +245,7 @@ And here are some of the software, plugins or libraries I have contributed to:
 
 ---
 
-_Last updated: October 2025_
+_Last updated: February 2026_
 
 
 
